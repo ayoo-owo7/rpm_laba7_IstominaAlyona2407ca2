@@ -1,0 +1,4 @@
+C:\Users\shuic\source\repos\Rpm_Lab7\Rpm_Lab7\obj\Debug\net8.0\Rpm_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuic\source\repos\Rpm_Lab7\Rpm_Lab7\obj\Debug\net8.0\Rpm_Lab7.AssemblyInfoInputs.cache
+C:\Users\shuic\source\repos\Rpm_Lab7\Rpm_Lab7\obj\Debug\net8.0\Rpm_Lab7.AssemblyInfo.cs
+C:\Users\shuic\source\repos\Rpm_Lab7\Rpm_Lab7\obj\Debug\net8.0\Rpm_Lab7.csproj.CoreCompileInputs.cache
